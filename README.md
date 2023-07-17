@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Ayushkumar007
+- 👋 Hi, I’m @AyushKSanthosh
 - 👀 I’m interested in full stack web development
 - 🌱 I’m currently learning Front End Web development
 - 💞️ I’m looking to collaborate on Web develpment projects,Web designing and also some IOT projects
